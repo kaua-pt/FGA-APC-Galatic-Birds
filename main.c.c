@@ -1,6 +1,6 @@
 /* Programa para o sistema operacional Windows
 Certifico que os algoritmos e programas que estou entregando sao de minha autoria e 
-que nao os repassei ou os recebi de qualquer outra pessoa. Kaua Vini­cius Ponte Aguiar - Matri­cula 211029399.
+que nao os repassei ou os recebi de qualquer outra pessoa. Kaua Vini­cius Ponte Aguiar.
 Objective: To produce a system for a Jeff Elon Branson fictional business.
 Input : operant choices.
 Output: data saved in the system.*/
